@@ -2,7 +2,10 @@
 	    margin-top: -55px;
 	    font-family: 'Mali', cursive;
 }
-
+img{
+     max-width: 100%;
+     height:auto;
+}
 h1{
 	
     color:#fafafa;
@@ -18,9 +21,12 @@ p {
 .btn{
 	font-size:1.3rem;
 }
-
 footer ul li{
 	display: flex;
 
+}
+img{
+	width:100px;
+	height:100px;
 }
 
